@@ -18,8 +18,6 @@ rename - Rename file
 set_thumbnail - Set Custom Thumbnail
 show_thumbnail - Show Custom Thumbnail
 delete_thumbnail - Delete Custom Thumbnail
-broadcast - Broadcast Message. (Admin Only)
-status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
