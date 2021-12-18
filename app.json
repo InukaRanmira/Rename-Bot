@@ -1,13 +1,13 @@
 {
-    "name": "Telegram Files Rename Bot",
-    "description": "A Very Simple Telegram Files Rename Bot by @AbirHasan2005",
+    "name": "Rename Bot",
+    "description": "A Very Advance Telegram Files Rename Bot",
     "keywords": [
         "telegram",
         "files",
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Rename-Bot",
+    "repository": "https://github.com/InukaRanmira/Rename-Bot",
     "website": "https://abirhasan.wtf",
     "success_url": "https://t.me/AH_RenameBot",
     "env": {
