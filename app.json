@@ -7,7 +7,7 @@
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/InukaRanmira/Rename-Bot",
+    "repository": "https://github.com/szbots/Rename-Bot",
     "website": "https://abirhasan.wtf",
     "success_url": "https://t.me/AH_RenameBot",
     "env": {
